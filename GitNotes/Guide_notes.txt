@@ -1,0 +1,8 @@
+Copiar un repositorio
+git clone url-path
+#git clone https://github.com/norman00/FirstTest
+
+
+Get git status
+#git status
+
